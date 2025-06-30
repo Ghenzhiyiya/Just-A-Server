@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 枕知意
+Copyright (c) 2024 JustServer Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+DISCLAIMER:
+This project is for educational purposes only. The code contains bugs and
+security vulnerabilities and has not been thoroughly tested. It should NOT
+be used in production environments or for any commercial purposes. Users
+assume all risks and responsibilities when using this code.

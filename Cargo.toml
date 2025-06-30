@@ -1,0 +1,13 @@
+[package]
+name = "http_server_rust"
+version = "1.0.0"
+edition = "2021"
+authors = ["AI Generated"]
+description = "从底层实现的HTTP服务器 - Rust版本，用于学习HTTP协议底层原理"
+
+[dependencies]
+ctrlc = "3.4"
+
+[[bin]]
+name = "http_server_rust"
+path = "http_server_rust.rs"
